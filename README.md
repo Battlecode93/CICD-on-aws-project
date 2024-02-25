@@ -1,1 +1,1 @@
-# CI-CD-on-aws-project
+# CICD-on-aws-project
